@@ -1,2 +1,2 @@
 # IADS_Repo
-person "notes" for IADS
+Based on a typical Algorithmns and Datastructures course. Currently undergoing constant updates.
