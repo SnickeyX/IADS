@@ -1,2 +1,2 @@
 # IADS
-Based on a typical Algorithmns and Datastructures course. Updates coming in december!Cancel changes
+Based on a typical Algorithmns and Datastructures course. Updates coming in december!
